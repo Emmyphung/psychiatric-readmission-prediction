@@ -101,3 +101,6 @@ history = model.fit(X_train, y_train, batch_size=32, epochs=10, verbose=0,
 
 torch.save(model,main_path+'model_LSTM_GloVe.pth')
 
+print('***Evaluating on test set...')
+y_proba = model.predict(X_test)
+pickle.dump(y_proba,open(main_path+"model_lstm_glove_yproba.pkl","wb"))
