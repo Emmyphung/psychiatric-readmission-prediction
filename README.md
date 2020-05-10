@@ -1,7 +1,7 @@
-# Predicting Psychiatric Readmission from Clinical Notes 
+# Predicting Psychiatric Readmission from Clinical Notes <br>
 
-**Authors**: Emmy Phung (mtp363@nyu.edu) and Kevin Yie (ky848@nyu.edu)
-**Data source**: MIMIC III (https://mimic.physionet.org/)
+**Authors**: Emmy Phung (mtp363@nyu.edu) and Kevin Yie (ky848@nyu.edu) <br>
+**Data source**: MIMIC III (https://mimic.physionet.org/) <br>
 
 **Abstract**
 
@@ -15,6 +15,7 @@ Rapid psychiatric readmissions present a burden for both the patients as well as
 - BERT Discharge (as feature extractor)
 - BERT Discharge (finetuned)
 
-
+*Note: saved models can be found at: 
+https://drive.google.com/drive/folders/1F9XzG6vewCEV9DFityUICVbkEz5vZPBR?usp=sharing*
 
 <center><img src="graphs/combined_forreadme.png"/></center>
