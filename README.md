@@ -1,7 +1,7 @@
-# Predicting Psychiatric Readmission from Clinical Notes 
+# Predicting Psychiatric Readmission from Clinical Notes <br>
 
-**Authors**: Emmy Phung (mtp363@nyu.edu) and Kevin Yie (ky848@nyu.edu)
-**Data source**: MIMIC III (https://mimic.physionet.org/)
+**Authors**: Emmy Phung (mtp363@nyu.edu) and Kevin Yie (ky848@nyu.edu) <br>
+**Data source**: MIMIC III (https://mimic.physionet.org/) <br>
 
 **Abstract**
 
