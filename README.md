@@ -15,6 +15,8 @@ Rapid psychiatric readmissions present a burden for both the patients as well as
 - BERT Discharge (as feature extractor)
 - BERT Discharge (finetuned)
 
+Please see our **Final Report** for details.
+
 *Note: saved models can be found at: 
 https://drive.google.com/drive/folders/1F9XzG6vewCEV9DFityUICVbkEz5vZPBR?usp=sharing*
 
