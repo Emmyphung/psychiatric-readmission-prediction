@@ -1,3 +1,3 @@
-# psychiatric-readmission-prediction
-Predicting psychiatric readmission from clinical notes using LSTM and BERT
+Predicting Psychiatric Readmission from Clinical Notes 
+
 WILL UPDATE
