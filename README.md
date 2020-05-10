@@ -17,3 +17,4 @@ Rapid psychiatric readmissions present a burden for both the patients as well as
 
 
 
+<center><img src="graphs/combined_forreadme.png"/></center>
